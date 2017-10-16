@@ -14,6 +14,6 @@ return array
 
 
   whileLoop (n) {
-  if n < 0 
-  
+  if n < 0
+
 }
