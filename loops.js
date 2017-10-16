@@ -13,7 +13,10 @@ return array
 }
 
 
-  whileLoop (n) {
-  if n < 0
+function whileLoop (n) {
+  while (n > 0) {
+    console.log(n--);
+  }
+  return 'done'
 
 }
